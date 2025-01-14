@@ -2,7 +2,7 @@ FROM openjdk:17-ea-slim
 
 WORKDIR /kh0114
 
-COPY ./build/libs/app98-0.0.1-SNAPSHOT.jar /kh/app98.jar
+COPY ./build/libs/app98-0.0.1-SNAPSHOT.jar /kh0114/app98.jar
 
 EXPOSE 8080
 
