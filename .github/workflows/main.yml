@@ -43,4 +43,4 @@ jobs:
       # Push Docker image to Docker Hub
       - name: Push Docker Image
         run: |
-          docker push ${{ secrets.DOCKER_HUB_ID }}/app0114:latest
+          docker push ${{ secrets.DOCKER_HUB_ID }}/app98:latest
