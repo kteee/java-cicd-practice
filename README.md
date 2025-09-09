@@ -1,2 +1,2 @@
 ## Java CI/CD Practice
-CI/CD 연습용
+CI/CD 연습용 
